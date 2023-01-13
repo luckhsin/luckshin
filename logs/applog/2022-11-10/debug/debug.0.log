@@ -1,0 +1,90 @@
+20221110:09:09:22.604 [main] DEBUG Using SLF4J as the default logging framework
+20221110:09:09:22.614 [main] DEBUG -Dio.netty.eventLoopThreads: 8
+20221110:09:09:22.633 [main] DEBUG -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+20221110:09:09:22.634 [main] DEBUG -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+20221110:09:09:22.662 [main] DEBUG -Dio.netty.noUnsafe: false
+20221110:09:09:22.663 [main] DEBUG Java version: 8
+20221110:09:09:22.665 [main] DEBUG sun.misc.Unsafe.theUnsafe: available
+20221110:09:09:22.666 [main] DEBUG sun.misc.Unsafe.copyMemory: available
+20221110:09:09:22.666 [main] DEBUG sun.misc.Unsafe.storeFence: available
+20221110:09:09:22.667 [main] DEBUG java.nio.Buffer.address: available
+20221110:09:09:22.668 [main] DEBUG direct buffer constructor: available
+20221110:09:09:22.669 [main] DEBUG java.nio.Bits.unaligned: available, true
+20221110:09:09:22.669 [main] DEBUG jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+20221110:09:09:22.669 [main] DEBUG java.nio.DirectByteBuffer.<init>(long, int): available
+20221110:09:09:22.669 [main] DEBUG sun.misc.Unsafe: available
+20221110:09:09:22.670 [main] DEBUG -Dio.netty.tmpdir: C:\Users\dhd\AppData\Local\Temp (java.io.tmpdir)
+20221110:09:09:22.670 [main] DEBUG -Dio.netty.bitMode: 64 (sun.arch.data.model)
+20221110:09:09:22.670 [main] DEBUG Platform: Windows
+20221110:09:09:22.672 [main] DEBUG -Dio.netty.maxDirectMemory: 3787980800 bytes
+20221110:09:09:22.672 [main] DEBUG -Dio.netty.uninitializedArrayAllocationThreshold: -1
+20221110:09:09:22.673 [main] DEBUG java.nio.ByteBuffer.cleaner(): available
+20221110:09:09:22.673 [main] DEBUG -Dio.netty.noPreferDirect: false
+20221110:09:09:22.674 [main] DEBUG -Dio.netty.noKeySetOptimization: false
+20221110:09:09:22.675 [main] DEBUG -Dio.netty.selectorAutoRebuildThreshold: 512
+20221110:09:09:22.684 [main] DEBUG org.jctools-core.MpscChunkedArrayQueue: available
+20221110:09:09:23.008 [main] DEBUG 执行结束
+20221110:09:09:23.009 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:24.008 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:25.011 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:26.011 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:27.013 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:28.015 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:29.012 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:30.010 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:31.013 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:32.019 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:33.018 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:34.005 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:35.007 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:36.004 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:37.009 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:38.011 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:39.007 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:40.005 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:41.018 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:42.007 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:43.018 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:44.018 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:45.016 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:46.016 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:47.016 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:48.012 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:49.010 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:50.013 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:51.015 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:52.017 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:53.015 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:54.014 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:55.017 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:56.011 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:57.010 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:58.013 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:09:59.014 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:00.017 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:01.015 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:02.018 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:03.017 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:04.020 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:05.020 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:06.016 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:07.014 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:08.014 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:09.011 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:10.012 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:11.012 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:12.012 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:13.009 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:14.012 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:15.010 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:16.006 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:17.010 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:18.007 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:19.004 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:20.009 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:21.019 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:22.012 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:23.014 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:24.014 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:25.016 [nioEventLoopGroup-2-1] DEBUG ok
+20221110:09:10:26.007 [nioEventLoopGroup-2-1] DEBUG ok
